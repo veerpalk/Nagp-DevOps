@@ -1,0 +1,1 @@
+Application is running on url: http://kubernetes.docker.internal:30157/veerpalkaur/
